@@ -68,7 +68,7 @@
 
 ###
 #### My contribution graph get eaten by the snake 🐍:
-![github-contribution-grid-snake](https://github.com/zyad246/zyad246/blob/output/github-contribution-grid-snake.svg)
+![github-contribution-grid-snake](https://github.com/zyad246/zyad246/blob/output/github-contribution-grid-snake-dark.svg)
 
 <br clear="both">
 
