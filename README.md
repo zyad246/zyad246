@@ -70,6 +70,10 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/zyad246/zyad246/blob/output/github-contribution-grid-snake.svg)
 
+
+
+
+
+![snake gif](https://github.com/zyad246/zyad246/blob/output/github-contribution-grid-snake.gif)
 
