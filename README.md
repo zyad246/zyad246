@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! I'm Zyad Mohamed</h2>
-
 
 <h2 align="center">About Me :</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zyad246&label=Profile%20views&color=0e75b6&style=flat" /> </p>
