@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! I'm Zyad Mohamed</h2>
 
-###
-###
+![](https://komarev.com/ghpvc/?username=zyad246)
 
 
 
