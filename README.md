@@ -67,6 +67,8 @@
 </div>
 
 ###
+#### My contribution graph get eaten by the snake 🐍:
+![github-contribution-grid-snake](https://github.com/wkylin/wkylin/blob/output/github-contribution-grid-snake.svg)
 
 <br clear="both">
 
