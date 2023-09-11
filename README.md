@@ -70,6 +70,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/zyad246/zyad246/output/snake.svg" alt="Snake animation" />
 
-###
