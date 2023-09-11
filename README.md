@@ -1,7 +1,16 @@
 ![github-header-image (2)](https://github.com/zyad246/zyad246/assets/47024065/cb238683-6e53-4ffb-8551-79dca09ca833)
 
 <h2 align="center">About Me :</h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zyad246&label=Profile%20views&color=0e75b6&style=plastic" /> </p>
+<style>
+  .profile-views {
+    border: 2px solid #0e75b6;
+    padding: 5px;
+  }
+</style>
+
+<p align="center">
+  <img class="profile-views" src="https://komarev.com/ghpvc/?username=zyad246&label=Profile%20views&color=0e75b6&style=plastic">
+</p>
 <h4 align="center">🔭 I’m currently working on expanding my knowledge in Data Engineering and applying it to real-world projects.<br>👯 I’m looking to collaborate on data-driven projects that involve Data Engineering and Analytics.<br>🤝 I’m looking for help with advanced Data Engineering techniques and best practices.<br>🌱 I’m currently learning advanced data processing frameworks like Apache Spark and data pipeline orchestration tools like Apache Airflow.<br>💬 Ask me about Data Engineering, Data Analytics, and Machine Learning. I'm always excited to discuss and share insights.<br>⚡ Fun fact: I love finding creative solutions to complex data problems and turning raw data into valuable information that drives decision-making.</h4>
 
 ###
