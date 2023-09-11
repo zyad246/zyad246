@@ -1,7 +1,13 @@
 <h2 align="left">Hi 👋! I'm Zyad Mohamed</h2>
 
 ###
+###
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zyad246.zyad246&left_text=Profile Views "  />
+</div>
+
+###
 
 
 ###
